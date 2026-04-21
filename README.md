@@ -116,5 +116,7 @@ This dashboard suite enables businesses to:
 
 **Muhammad Waqas**
 Data Analyst
+
 Business Analytics Professional
+
 Specializing in forecasting models, dashboards, and end-to-end analytics workflows
