@@ -19,7 +19,7 @@ The project delivers a **customer lifecycle intelligence system** through four i
 
 * Excel Data Model / Power Pivot
 * Power BI-style dashboard design
-* SQL (for data preparation – optional)
+* SQL 
 
 ---
 
